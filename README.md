@@ -1,0 +1,2 @@
+# Nqeens
+nqeens with mlutithreading
